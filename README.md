@@ -25,10 +25,6 @@ A simple **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.
 5. If all cells are filled without a winner, it's a **draw**.
 6. Click the **Reset** button to play again.
 
-## 📸 Screenshot
-
-
-
 ## 📂 Installation
 
 To run the game locally:
