@@ -35,7 +35,7 @@ To run the game locally:
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/HarshSindhi1109/Tic-Tac-Toe-Project.git
 
 # Navigate to project directory
 cd tic-tac-toe
