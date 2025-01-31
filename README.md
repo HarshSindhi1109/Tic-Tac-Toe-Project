@@ -2,10 +2,6 @@
 
 A simple **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.
 
-## 🎮 Live Demo
-
-[Play Tic Tac Toe](your-demo-link-here)
-
 ## 📌 Features
 
 - Classic 3x3 Tic Tac Toe gameplay
